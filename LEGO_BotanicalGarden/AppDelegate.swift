@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  FlowerShop
+//  LEGO_BotanicalGarden
 //
 //  Created by Brian Advent on 14.06.18.
 //  Copyright © 2018 Brian Advent. All rights reserved.

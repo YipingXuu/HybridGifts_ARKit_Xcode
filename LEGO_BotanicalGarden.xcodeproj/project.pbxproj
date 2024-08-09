@@ -42,7 +42,7 @@
 		5215967A20D27461006E670B = {
 			isa = PBXGroup;
 			children = (
-				5215968520D27461006E670B /* FlowerShop */,
+				5215968520D27461006E670B /* LEGO_BotanicalGarden */,
 				5215968420D27461006E670B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5215968520D27461006E670B /* FlowerShop */ = {
+		5215968520D27461006E670B /* LEGO_BotanicalGarden */ = {
 			isa = PBXGroup;
 			children = (
 				5215968620D27461006E670B /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				5215969120D27462006E670B /* LaunchScreen.storyboard */,
 				5215969420D27462006E670B /* Info.plist */,
 			);
-			path = FlowerShop;
+			path = LEGO_BotanicalGarden;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5215967E20D27461006E670B /* Build configuration list for PBXProject "FlowerShop" */;
+			buildConfigurationList = 5215967E20D27461006E670B /* Build configuration list for PBXProject "LEGO_BotanicalGarden" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5215967E20D27461006E670B /* Build configuration list for PBXProject "FlowerShop" */ = {
+		5215967E20D27461006E670B /* Build configuration list for PBXProject "LEGO_BotanicalGarden" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5215969520D27462006E670B /* Debug */,
