@@ -1,11 +1,17 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "resources" : [
     {
+      "filename" : "Decoration.arobject"
+    },
+    {
       "filename" : "MyPot.arobject"
+    },
+    {
+      "filename" : "Succulent.arobject"
     }
   ]
 }
